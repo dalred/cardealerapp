@@ -22,14 +22,16 @@ jobs:
         run: |
           mkdir deploy
           cat docker-compose-ci.yaml | envsubst > docker-compose.yaml
-          cat docker_ci_config.py | envsubst > docker_config.py
+          cat docker_ci_config.py | envsubst > config.py
       - name: Login to Docker Hub
         uses: docker/login-action@v1
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-      - name: cat
-        run: cat docker_config.py
+      - name: cat config.py
+        run: cat config.py
+      - name: cat docker-compose.yaml
+        run: cat docker-compose.yaml
       - name: cat
         run: ls -lav
       - name: Build and push
