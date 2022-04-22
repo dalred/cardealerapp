@@ -1,8 +1,5 @@
-# На данный момент нереализованный функционал
 import datetime
-
 from marshmallow import Schema, fields
-
 from marshmallow.fields import Int, Boolean, Decimal, DateTime, Str
 
 
@@ -17,7 +14,7 @@ class CarModelsSchema(Schema):
     name = Str()
     country = fields.Nested(CountrySchema, dump_only=True)
     # Для вложенной схемы название
-    # должно обязательно совпадать с названием в db.model relationship
+    # должно обязательно совпадать с названием в CarModels db.model relationship
 
 
 class DealerSchema(Schema):

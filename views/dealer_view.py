@@ -11,7 +11,7 @@ dealers_ns = Namespace("dealers")
 class DealersView(Resource):
     @dealers_ns.response(200, "OK")
     def get(self):
-        """Get all Car"""
+        """Get all dealers"""
         return dealer_service.get_all_dealers()
 
     def post(self):

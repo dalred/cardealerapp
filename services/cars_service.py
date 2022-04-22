@@ -1,7 +1,7 @@
 from flask import jsonify
 from marshmallow import ValidationError
 
-from dao.models.schemas.schemas import CarSchema
+from models.schemas.schemas import CarSchema
 from exceptions import UnknownField
 from helpers.functions import set_keys
 from services.base_service import BaseService

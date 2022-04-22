@@ -1,3 +1,5 @@
+
+http://skypro-dal.ga/
 ##### Список допустимых эндпойнтов
 > flask routes
 

@@ -3,8 +3,8 @@ from config import BASEDIR
 from dao.CarDAO import CarDAO
 from dao.Car_ModelsDAO import Car_ModelsDAO
 from dao.CountryDAO import CountryDAO
-from dao.modelDAO import DealerDAO
-from dao.models import Country, Car_Model, Car, Dealer
+from dao.DealerDAO import DealerDAO
+from models import Country, Car_Model, Car, Dealer
 from helpers import read_json
 from services.cars_models_service import Cars_modelsService
 from services.cars_service import CarsService

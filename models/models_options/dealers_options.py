@@ -1,5 +1,5 @@
-from dao.models import Dealer
-from dao.models.models_options.base_schema import Base_data
+from models import Dealer
+from models.models_options.base_schema import Base_data
 from typing import Optional
 
 class Dealer_Option(Base_data):

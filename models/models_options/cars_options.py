@@ -1,5 +1,5 @@
-from dao.models import Car
-from dao.models.models_options.base_schema import Base_data
+from models import Car
+from models.models_options.base_schema import Base_data
 from typing import Optional
 
 class Cars_Option(Base_data):

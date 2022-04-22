@@ -1,7 +1,7 @@
-from typing import List, Optional
+from typing import Optional
 
-from dao.models.equipment_model import Weapon
-from dao.models.models_options.base_schema import Base_data
+from models import Weapon
+from models.models_options.base_schema import Base_data
 
 
 class Weapons_Option(Base_data):

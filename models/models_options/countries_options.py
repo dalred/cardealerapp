@@ -1,5 +1,5 @@
-from dao.models import Country
-from dao.models.models_options.base_schema import Base_data
+from models import Country
+from models.models_options.base_schema import Base_data
 from typing import Optional
 
 class Country_Option(Base_data):

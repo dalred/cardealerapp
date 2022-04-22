@@ -1,10 +1,10 @@
-from dao.models.models_options.car_model_options import Car_Models_Option
-from dao.models.models_options.cars_options import Cars_Option
-from dao.models.models_options.countries_options import Country_Option
-from dao.models.models_options.dealers_options import Dealer_Option
+from models.models_options.car_model_options import Car_Models_Option
+from models.models_options.cars_options import Cars_Option
+from models.models_options.countries_options import Country_Option
+from models.models_options.dealers_options import Dealer_Option
 from implemented import cars_dict, countries_dict, car_models_dict, dealers_dict
 from setup_db import db
-from dao.models import *
+from models import *
 
 def create_tables():
     db.drop_all()
@@ -26,8 +26,3 @@ def create_tables():
     db.session.add_all(dealer)
     db.session.add_all(car)
     db.session.commit()
-    # users = Users_Option(User, users_dict)
-    # weapons = Weapons_Option(Weapon, eq_dict)
-    # db.session.add_all(users.load_schema(users_dict, many=True))
-    # db.session.add_all(weapons.load_schema(eq_dict, many=True))
-    # db.session.commit()

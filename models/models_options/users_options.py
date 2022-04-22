@@ -1,7 +1,7 @@
-from typing import List, Optional
+from typing import Optional
 
-from dao.models.user_model import User
-from dao.models.models_options.base_schema import Base_data
+from models.user_model import User
+from models.models_options.base_schema import Base_data
 
 
 class Users_Option(Base_data):
