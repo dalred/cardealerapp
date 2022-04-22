@@ -58,5 +58,6 @@ jobs:
           script: |
             echo homepath $HOME
             cd ${{secrets.NAME_APP}}
+            echo ${{ secrets.SSH_PASSWORD }} | sudo -S docker cp docker_config.py ${{secrets.NAME_APP}}:code/config.py
             echo ${{ secrets.SSH_PASSWORD }} | sudo -S docker-compose down
             echo ${{ secrets.SSH_PASSWORD }} | sudo -S docker-compose up -d
