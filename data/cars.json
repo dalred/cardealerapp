@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "model_id": 17,
+    "dealer_id": 10,
+    "year": "2003-10-06 09:13:26",
+    "price": 0.44,
+    "is_sold": 0
+  },
+  {
+    "id": 2,
+    "model_id": 10,
+    "dealer_id": 18,
+    "year": "2003-10-06 09:13:26",
+    "price": 105,
+    "is_sold": 0
+  },
+  {
+    "id": 3,
+    "model_id": 25,
+    "dealer_id": 2,
+    "year": "2003-10-06 09:13:26",
+    "price": 170.78,
+    "is_sold": 0
+  },
+  {
+    "id": 4,
+    "model_id": 32,
+    "dealer_id": 3,
+    "year": "2003-10-06 09:13:26",
+    "price": 18.56,
+    "is_sold": 0
+  },
+  {
+    "id": 5,
+    "model_id": 20,
+    "dealer_id": 3,
+    "year": "2003-10-06 09:13:26",
+    "price": 93.78,
+    "is_sold": 0
+  },
+  {
+    "id": 6,
+    "model_id": 13,
+    "dealer_id": 5,
+    "year": "2003-10-06 09:13:26",
+    "price": 217.44,
+    "is_sold": 0
+  },
+  {
+    "id": 7,
+    "model_id": 65,
+    "dealer_id": 4,
+    "year": "2003-10-06 09:13:26",
+    "price": 170.22,
+    "is_sold": 0
+  },
+  {
+    "id": 8,
+    "model_id": 61,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 125.78,
+    "is_sold": 0
+  },
+  {
+    "id": 9,
+    "model_id": 73,
+    "dealer_id": 19,
+    "year": "2003-10-06 09:13:26",
+    "price": 22.22,
+    "is_sold": 0
+  },
+  {
+    "id": 10,
+    "model_id": 42,
+    "dealer_id": 9,
+    "year": "2003-10-06 09:13:26",
+    "price": 3.44,
+    "is_sold": 0
+  },
+  {
+    "id": 11,
+    "model_id": 92,
+    "dealer_id": 12,
+    "year": "2003-10-06 09:13:26",
+    "price": 208.56,
+    "is_sold": 0
+  },
+  {
+    "id": 12,
+    "model_id": 38,
+    "dealer_id": 6,
+    "year": "2003-10-06 09:13:26",
+    "price": 4.33,
+    "is_sold": 0
+  },
+  {
+    "id": 13,
+    "model_id": 28,
+    "dealer_id": 4,
+    "year": "2003-10-06 09:13:26",
+    "price": 195.22,
+    "is_sold": 0
+  },
+  {
+    "id": 14,
+    "model_id": 55,
+    "dealer_id": 6,
+    "year": "2003-10-06 09:13:26",
+    "price": 176.78,
+    "is_sold": 0
+  },
+  {
+    "id": 15,
+    "model_id": 42,
+    "dealer_id": 15,
+    "year": "2003-10-06 09:13:26",
+    "price": 70.67,
+    "is_sold": 0
+  },
+  {
+    "id": 16,
+    "model_id": 81,
+    "dealer_id": 13,
+    "year": "2003-10-06 09:13:26",
+    "price": 61,
+    "is_sold": 0
+  },
+  {
+    "id": 17,
+    "model_id": 88,
+    "dealer_id": 19,
+    "year": "2003-10-06 09:13:26",
+    "price": 108.56,
+    "is_sold": 0
+  },
+  {
+    "id": 18,
+    "model_id": 4,
+    "dealer_id": 7,
+    "year": "2003-10-06 09:13:26",
+    "price": 126,
+    "is_sold": 0
+  },
+  {
+    "id": 19,
+    "model_id": 31,
+    "dealer_id": 1,
+    "year": "2003-10-06 09:13:26",
+    "price": 19.33,
+    "is_sold": 0
+  },
+  {
+    "id": 20,
+    "model_id": 94,
+    "dealer_id": 13,
+    "year": "2003-10-06 09:13:26",
+    "price": 173.44,
+    "is_sold": 0
+  },
+  {
+    "id": 21,
+    "model_id": 14,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 114,
+    "is_sold": 0
+  },
+  {
+    "id": 22,
+    "model_id": 13,
+    "dealer_id": 9,
+    "year": "2003-10-06 09:13:26",
+    "price": 4.78,
+    "is_sold": 0
+  },
+  {
+    "id": 23,
+    "model_id": 82,
+    "dealer_id": 2,
+    "year": "2003-10-06 09:13:26",
+    "price": 22.44,
+    "is_sold": 0
+  },
+  {
+    "id": 24,
+    "model_id": 88,
+    "dealer_id": 20,
+    "year": "2003-10-06 09:13:26",
+    "price": 205.56,
+    "is_sold": 0
+  },
+  {
+    "id": 25,
+    "model_id": 44,
+    "dealer_id": 1,
+    "year": "2003-10-06 09:13:26",
+    "price": 78.44,
+    "is_sold": 0
+  },
+  {
+    "id": 26,
+    "model_id": 67,
+    "dealer_id": 20,
+    "year": "2003-10-06 09:13:26",
+    "price": 54.33,
+    "is_sold": 0
+  },
+  {
+    "id": 27,
+    "model_id": 82,
+    "dealer_id": 12,
+    "year": "2003-10-06 09:13:26",
+    "price": 61.78,
+    "is_sold": 0
+  },
+  {
+    "id": 28,
+    "model_id": 6,
+    "dealer_id": 10,
+    "year": "2003-10-06 09:13:26",
+    "price": 101.44,
+    "is_sold": 0
+  },
+  {
+    "id": 29,
+    "model_id": 48,
+    "dealer_id": 2,
+    "year": "2003-10-06 09:13:26",
+    "price": 44.22,
+    "is_sold": 0
+  },
+  {
+    "id": 30,
+    "model_id": 77,
+    "dealer_id": 2,
+    "year": "2003-10-06 09:13:26",
+    "price": 126.22,
+    "is_sold": 0
+  },
+  {
+    "id": 31,
+    "model_id": 16,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 35.22,
+    "is_sold": 0
+  },
+  {
+    "id": 32,
+    "model_id": 1,
+    "dealer_id": 7,
+    "year": "2003-10-06 09:13:26",
+    "price": 139.56,
+    "is_sold": 0
+  },
+  {
+    "id": 33,
+    "model_id": 4,
+    "dealer_id": 15,
+    "year": "2003-10-06 09:13:26",
+    "price": 52.44,
+    "is_sold": 0
+  },
+  {
+    "id": 34,
+    "model_id": 52,
+    "dealer_id": 17,
+    "year": "2003-10-06 09:13:26",
+    "price": 49.33,
+    "is_sold": 0
+  },
+  {
+    "id": 35,
+    "model_id": 77,
+    "dealer_id": 5,
+    "year": "2003-10-06 09:13:26",
+    "price": 8.89,
+    "is_sold": 0
+  },
+  {
+    "id": 36,
+    "model_id": 83,
+    "dealer_id": 17,
+    "year": "2003-10-06 09:13:26",
+    "price": 162.89,
+    "is_sold": 0
+  },
+  {
+    "id": 37,
+    "model_id": 26,
+    "dealer_id": 16,
+    "year": "2003-10-06 09:13:26",
+    "price": 84.22,
+    "is_sold": 0
+  },
+  {
+    "id": 38,
+    "model_id": 60,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 210.89,
+    "is_sold": 0
+  },
+  {
+    "id": 39,
+    "model_id": 70,
+    "dealer_id": 17,
+    "year": "2003-10-06 09:13:26",
+    "price": 189.11,
+    "is_sold": 0
+  },
+  {
+    "id": 40,
+    "model_id": 80,
+    "dealer_id": 12,
+    "year": "2003-10-06 09:13:26",
+    "price": 71.22,
+    "is_sold": 0
+  },
+  {
+    "id": 41,
+    "model_id": 71,
+    "dealer_id": 4,
+    "year": "2003-10-06 09:13:26",
+    "price": 82,
+    "is_sold": 0
+  },
+  {
+    "id": 42,
+    "model_id": 20,
+    "dealer_id": 5,
+    "year": "2003-10-06 09:13:26",
+    "price": 201.78,
+    "is_sold": 0
+  },
+  {
+    "id": 43,
+    "model_id": 84,
+    "dealer_id": 18,
+    "year": "2003-10-06 09:13:26",
+    "price": 155.78,
+    "is_sold": 0
+  },
+  {
+    "id": 44,
+    "model_id": 40,
+    "dealer_id": 7,
+    "year": "2003-10-06 09:13:26",
+    "price": 135.78,
+    "is_sold": 0
+  },
+  {
+    "id": 45,
+    "model_id": 95,
+    "dealer_id": 2,
+    "year": "2003-10-06 09:13:26",
+    "price": 187.67,
+    "is_sold": 0
+  },
+  {
+    "id": 46,
+    "model_id": 69,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 122,
+    "is_sold": 0
+  },
+  {
+    "id": 47,
+    "model_id": 35,
+    "dealer_id": 3,
+    "year": "2003-10-06 09:13:26",
+    "price": 164.22,
+    "is_sold": 0
+  },
+  {
+    "id": 48,
+    "model_id": 100,
+    "dealer_id": 15,
+    "year": "2003-10-06 09:13:26",
+    "price": 165.56,
+    "is_sold": 0
+  },
+  {
+    "id": 49,
+    "model_id": 42,
+    "dealer_id": 1,
+    "year": "2003-10-06 09:13:26",
+    "price": 160.78,
+    "is_sold": 0
+  },
+  {
+    "id": 50,
+    "model_id": 91,
+    "dealer_id": 9,
+    "year": "2003-10-06 09:13:26",
+    "price": 32.33,
+    "is_sold": 0
+  },
+  {
+    "id": 51,
+    "model_id": 45,
+    "dealer_id": 19,
+    "year": "2003-10-06 09:13:26",
+    "price": 220.22,
+    "is_sold": 0
+  },
+  {
+    "id": 52,
+    "model_id": 64,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 180.33,
+    "is_sold": 0
+  },
+  {
+    "id": 53,
+    "model_id": 89,
+    "dealer_id": 18,
+    "year": "2003-10-06 09:13:26",
+    "price": 162,
+    "is_sold": 0
+  },
+  {
+    "id": 54,
+    "model_id": 48,
+    "dealer_id": 10,
+    "year": "2003-10-06 09:13:26",
+    "price": 124.44,
+    "is_sold": 0
+  },
+  {
+    "id": 55,
+    "model_id": 51,
+    "dealer_id": 10,
+    "year": "2003-10-06 09:13:26",
+    "price": 115.78,
+    "is_sold": 0
+  },
+  {
+    "id": 56,
+    "model_id": 14,
+    "dealer_id": 9,
+    "year": "2003-10-06 09:13:26",
+    "price": 107.33,
+    "is_sold": 0
+  },
+  {
+    "id": 57,
+    "model_id": 46,
+    "dealer_id": 17,
+    "year": "2003-10-06 09:13:26",
+    "price": 153.33,
+    "is_sold": 0
+  },
+  {
+    "id": 58,
+    "model_id": 27,
+    "dealer_id": 1,
+    "year": "2003-10-06 09:13:26",
+    "price": 29.44,
+    "is_sold": 0
+  },
+  {
+    "id": 59,
+    "model_id": 76,
+    "dealer_id": 3,
+    "year": "2003-10-06 09:13:26",
+    "price": 8.56,
+    "is_sold": 0
+  },
+  {
+    "id": 60,
+    "model_id": 20,
+    "dealer_id": 2,
+    "year": "2003-10-06 09:13:26",
+    "price": 73.22,
+    "is_sold": 0
+  },
+  {
+    "id": 61,
+    "model_id": 31,
+    "dealer_id": 4,
+    "year": "2003-10-06 09:13:26",
+    "price": 103.33,
+    "is_sold": 0
+  },
+  {
+    "id": 62,
+    "model_id": 87,
+    "dealer_id": 7,
+    "year": "2003-10-06 09:13:26",
+    "price": 82.56,
+    "is_sold": 0
+  },
+  {
+    "id": 63,
+    "model_id": 30,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 45.67,
+    "is_sold": 0
+  },
+  {
+    "id": 64,
+    "model_id": 37,
+    "dealer_id": 20,
+    "year": "2003-10-06 09:13:26",
+    "price": 93.67,
+    "is_sold": 0
+  },
+  {
+    "id": 65,
+    "model_id": 94,
+    "dealer_id": 14,
+    "year": "2003-10-06 09:13:26",
+    "price": 88.67,
+    "is_sold": 0
+  },
+  {
+    "id": 66,
+    "model_id": 34,
+    "dealer_id": 2,
+    "year": "2003-10-06 09:13:26",
+    "price": 150.67,
+    "is_sold": 0
+  },
+  {
+    "id": 67,
+    "model_id": 3,
+    "dealer_id": 6,
+    "year": "2003-10-06 09:13:26",
+    "price": 180.11,
+    "is_sold": 0
+  },
+  {
+    "id": 68,
+    "model_id": 22,
+    "dealer_id": 5,
+    "year": "2003-10-06 09:13:26",
+    "price": 61.11,
+    "is_sold": 0
+  },
+  {
+    "id": 69,
+    "model_id": 27,
+    "dealer_id": 13,
+    "year": "2003-10-06 09:13:26",
+    "price": 218.44,
+    "is_sold": 0
+  },
+  {
+    "id": 70,
+    "model_id": 70,
+    "dealer_id": 3,
+    "year": "2003-10-06 09:13:26",
+    "price": 66.56,
+    "is_sold": 0
+  },
+  {
+    "id": 71,
+    "model_id": 19,
+    "dealer_id": 16,
+    "year": "2003-10-06 09:13:26",
+    "price": 162.44,
+    "is_sold": 0
+  },
+  {
+    "id": 72,
+    "model_id": 88,
+    "dealer_id": 17,
+    "year": "2003-10-06 09:13:26",
+    "price": 61.78,
+    "is_sold": 0
+  },
+  {
+    "id": 73,
+    "model_id": 1,
+    "dealer_id": 14,
+    "year": "2003-10-06 09:13:26",
+    "price": 179.11,
+    "is_sold": 0
+  },
+  {
+    "id": 74,
+    "model_id": 36,
+    "dealer_id": 14,
+    "year": "2003-10-06 09:13:26",
+    "price": 190.33,
+    "is_sold": 0
+  },
+  {
+    "id": 75,
+    "model_id": 59,
+    "dealer_id": 18,
+    "year": "2003-10-06 09:13:26",
+    "price": 144,
+    "is_sold": 0
+  },
+  {
+    "id": 76,
+    "model_id": 63,
+    "dealer_id": 20,
+    "year": "2003-10-06 09:13:26",
+    "price": 186.44,
+    "is_sold": 0
+  },
+  {
+    "id": 77,
+    "model_id": 31,
+    "dealer_id": 4,
+    "year": "2003-10-06 09:13:26",
+    "price": 155.33,
+    "is_sold": 0
+  },
+  {
+    "id": 78,
+    "model_id": 60,
+    "dealer_id": 1,
+    "year": "2003-10-06 09:13:26",
+    "price": 104.22,
+    "is_sold": 0
+  },
+  {
+    "id": 79,
+    "model_id": 73,
+    "dealer_id": 18,
+    "year": "2003-10-06 09:13:26",
+    "price": 28.22,
+    "is_sold": 0
+  },
+  {
+    "id": 80,
+    "model_id": 35,
+    "dealer_id": 9,
+    "year": "2003-10-06 09:13:26",
+    "price": 19.89,
+    "is_sold": 0
+  },
+  {
+    "id": 81,
+    "model_id": 15,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 164.22,
+    "is_sold": 0
+  },
+  {
+    "id": 82,
+    "model_id": 62,
+    "dealer_id": 17,
+    "year": "2003-10-06 09:13:26",
+    "price": 217.33,
+    "is_sold": 0
+  },
+  {
+    "id": 83,
+    "model_id": 30,
+    "dealer_id": 15,
+    "year": "2003-10-06 09:13:26",
+    "price": 54.33,
+    "is_sold": 0
+  },
+  {
+    "id": 84,
+    "model_id": 16,
+    "dealer_id": 9,
+    "year": "2003-10-06 09:13:26",
+    "price": 79.56,
+    "is_sold": 0
+  },
+  {
+    "id": 85,
+    "model_id": 76,
+    "dealer_id": 18,
+    "year": "2003-10-06 09:13:26",
+    "price": 53.78,
+    "is_sold": 0
+  },
+  {
+    "id": 86,
+    "model_id": 25,
+    "dealer_id": 5,
+    "year": "2003-10-06 09:13:26",
+    "price": 57.89,
+    "is_sold": 0
+  },
+  {
+    "id": 87,
+    "model_id": 37,
+    "dealer_id": 16,
+    "year": "2003-10-06 09:13:26",
+    "price": 207.89,
+    "is_sold": 0
+  },
+  {
+    "id": 88,
+    "model_id": 73,
+    "dealer_id": 18,
+    "year": "2003-10-06 09:13:26",
+    "price": 175.56,
+    "is_sold": 0
+  },
+  {
+    "id": 89,
+    "model_id": 94,
+    "dealer_id": 13,
+    "year": "2003-10-06 09:13:26",
+    "price": 85.56,
+    "is_sold": 0
+  },
+  {
+    "id": 90,
+    "model_id": 42,
+    "dealer_id": 6,
+    "year": "2003-10-06 09:13:26",
+    "price": 84.67,
+    "is_sold": 0
+  },
+  {
+    "id": 91,
+    "model_id": 24,
+    "dealer_id": 4,
+    "year": "2003-10-06 09:13:26",
+    "price": 174.44,
+    "is_sold": 0
+  },
+  {
+    "id": 92,
+    "model_id": 59,
+    "dealer_id": 14,
+    "year": "2003-10-06 09:13:26",
+    "price": 220.78,
+    "is_sold": 0
+  },
+  {
+    "id": 93,
+    "model_id": 12,
+    "dealer_id": 7,
+    "year": "2003-10-06 09:13:26",
+    "price": 205.56,
+    "is_sold": 0
+  },
+  {
+    "id": 94,
+    "model_id": 32,
+    "dealer_id": 10,
+    "year": "2003-10-06 09:13:26",
+    "price": 65,
+    "is_sold": 0
+  },
+  {
+    "id": 95,
+    "model_id": 68,
+    "dealer_id": 10,
+    "year": "2003-10-06 09:13:26",
+    "price": 18.67,
+    "is_sold": 0
+  },
+  {
+    "id": 96,
+    "model_id": 45,
+    "dealer_id": 14,
+    "year": "2003-10-06 09:13:26",
+    "price": 191.78,
+    "is_sold": 0
+  },
+  {
+    "id": 97,
+    "model_id": 27,
+    "dealer_id": 4,
+    "year": "2003-10-06 09:13:26",
+    "price": 35.89,
+    "is_sold": 0
+  },
+  {
+    "id": 98,
+    "model_id": 88,
+    "dealer_id": 12,
+    "year": "2003-10-06 09:13:26",
+    "price": 180.11,
+    "is_sold": 0
+  },
+  {
+    "id": 99,
+    "model_id": 57,
+    "dealer_id": 11,
+    "year": "2003-10-06 09:13:26",
+    "price": 54.78,
+    "is_sold": 0
+  },
+  {
+    "id": 100,
+    "model_id": 60,
+    "dealer_id": 5,
+    "year": "2003-10-06 09:13:26",
+    "price": 145.11,
+    "is_sold": 0
+  }
+]

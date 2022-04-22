@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Italy"
+  },
+  {
+    "id": 2,
+    "name": "UK"
+  },
+  {
+    "id": 3,
+    "name": "Germany"
+  },
+  {
+    "id": 4,
+    "name": "USA"
+  },
+  {
+    "id": 5,
+    "name": "Japan"
+  },
+  {
+    "id": 6,
+    "name": "South Korea"
+  },
+  {
+    "id": 7,
+    "name": "Hong Kong"
+  },
+  {
+    "id": 8,
+    "name": "Sweden"
+  }
+]
